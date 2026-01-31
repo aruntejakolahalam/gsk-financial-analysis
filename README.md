@@ -30,3 +30,8 @@ and investment performance to support data-driven financial decision-making.
 - Business analytics
 - Data interpretation
 - Structured reporting
+  
+## Additional Documents
+- Insights_Summary.md – Business takeaways from the analysis
+- Assumptions_and_Limitations.md – Scope and constraints of the project
+- Future_Improvements.md – Ideas for extending the analysis
